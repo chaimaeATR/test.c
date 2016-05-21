@@ -1,0 +1,6 @@
+{
+  "name": "Main.c",
+  "tagline": "",
+  "body": "int main()\r\n{\r\nint i;\r\nfor (i = 0; i < 32; i++)\r\n{\r\nprintf(\"Hello Holberton\\n\");\r\n}\r\nreturn 0;\r\n}",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
